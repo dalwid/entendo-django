@@ -109,13 +109,3 @@ Acessar o sistema administrativo padrão do Django.
 ´´´
 http://127.0.0.1:8000/admin
 ´´´
-
-## Como usar  o GitHub
-
-Inicializar um novo reposit´rorio GIT.
-´´´
-git init
-´´´
-
-´´´
-´´´
